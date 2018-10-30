@@ -1,3 +1,4 @@
+package stackqueue;
 /*
  * Linked List Implementation of Stack
  * 

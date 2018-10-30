@@ -1,3 +1,4 @@
+package stackqueue;
 /*
  * Array based implementation of Stack with fix capacity
  * 
